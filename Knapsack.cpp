@@ -20,7 +20,7 @@ int knapsack(int W, vector<int>& wt, vector<int>& val, int n) {
 int main() {
     int W = 50; // Maximum weight of knapsack
     vector<int> wt = {10, 20, 30}; // Weights of items
-    vector<int> val = {60, 100, 120}; // Values of items
+    vector<int> val = {50, 100, 120}; // Values of items
     int n = wt.size(); // Number of items
 
     cout << "Maximum value in Knapsack = " << knapsack(W, wt, val, n) << endl;
