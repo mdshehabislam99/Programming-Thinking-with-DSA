@@ -1,1 +1,1 @@
-Maximum value in Knapsack = 220
+6.5
