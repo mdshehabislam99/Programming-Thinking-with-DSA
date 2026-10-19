@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//a1[] and a2[]
+
 double findMedianSortedArrays(vector<int>& a1, vector<int>& a2) {
     int n1 = a1.size();
     int n2 = a2.size();
