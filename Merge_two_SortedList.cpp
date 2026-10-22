@@ -64,12 +64,11 @@ void display(ListNode* head) {
 }
 
 int main() {
-    // First sorted linked list: 1 -> 3 -> 5
-    ListNode* list1 = new ListNode(1);
+     ListNode* list1 = new ListNode(1);
     list1->next = new ListNode(3);
     list1->next->next = new ListNode(5);
 
-    // Second sorted linked list: 2 -> 4 -> 6
+
     ListNode* list2 = new ListNode(2);
     list2->next = new ListNode(4);
     list2->next->next = new ListNode(6);
