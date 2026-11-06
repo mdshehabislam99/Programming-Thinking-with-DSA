@@ -2,7 +2,7 @@
 using namespace std;
 
 void count_node(){
-    
+    int 
 }
 
 
