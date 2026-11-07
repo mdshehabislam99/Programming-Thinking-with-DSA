@@ -1,1 +1,0 @@
-Factorial of 6 is: 720
