@@ -45,7 +45,10 @@ int main()
    
 struct TreeNode* root = new TreeNode(1);
 struct TreeNode* node2 = new TreeNode(2);
-
+struct MyStruct
+{
+    
+};
     solution sol;
     sol.countNodes(root);
     
