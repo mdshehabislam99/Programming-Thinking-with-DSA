@@ -51,6 +51,6 @@ struct MyStruct
 };
     solution sol;
     sol.countNodes(root);
-    
+    //fuck
     return 0;
 }
