@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+#include <algorithm>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 int knapsack(int W, vector<int>& wt, vector<int>& val, int n) {
